@@ -1,0 +1,1327 @@
+﻿drugID,medication,adrID,n11,n10,n01,n00,relevance
+780,1 25-dihydroxyvitamin d3,a0,2,17,728,6513,0
+263,2-propanol,a0,0,1,730,6529,0
+296,3-keto-desogestrel,a0,0,1,730,6529,0
+703,4-aminopyridine,a0,0,6,730,6524,1
+261,5-azacytidine,a0,0,1,730,6529,2
+75,6-aminocaproic acid,a0,31,175,699,6355,3
+167,6-mercaptopurine,a0,1,2,729,6528,1
+696,9-hydroxyrisperidone,a0,0,6,730,6524,1
+478,abacavir,a0,1,5,729,6525,2
+333,abatacept,a0,0,1,730,6529,2
+682,abciximab,a0,0,6,730,6524,0
+355,abiraterone,a0,0,1,730,6529,0
+614,acamprosate,a0,0,4,730,6526,2
+135,acarbose,a0,1,1,729,6529,0
+1055,acellular pertussis vaccine,a0,4,62,726,6468,0
+1317,acetaminophen,a0,526,5342,204,1188,1
+876,acetazolamide,a0,4,33,726,6497,2
+522,acetic acid,a0,0,3,730,6527,0
+543,acetic acid glacial,a0,0,3,730,6527,0
+546,acetic acid product,a0,0,3,730,6527,0
+308,acetohydroxamic acid,a0,0,1,730,6529,1
+42,acetylcysteine,a0,31,157,699,6373,0
+716,activated charcoal,a0,1,10,729,6520,0
+17,acyclovir,a0,80,494,650,6036,3
+714,adalimumab,a0,1,10,729,6520,0
+821,adenosine,a0,8,53,722,6477,0
+819,adenosine preparation,a0,8,53,722,6477,0
+247,ado-trastuzumab emtansine,a0,0,1,730,6529,0
+221,albendazole,a0,0,1,730,6529,0
+6,albumin human,a0,121,665,609,5865,1
+583,albuterol,a0,203,1574,527,4956,1
+412,alcohol,a0,0,2,730,6528,0
+428,alcohol ethyl,a0,0,2,730,6528,0
+259,alcohol isopropyl,a0,0,1,730,6529,0
+21,aldesleukin,a0,11,7,719,6523,5
+120,alemtuzumab,a0,1,0,729,6530,2
+1088,alendronate,a0,1,54,729,6476,0
+675,allium sativum extract,a0,1,9,729,6521,0
+1090,allopurinol,a0,18,168,712,6362,2
+209,alogliptin,a0,0,1,730,6529,1
+312,alpha-1-proteinase inhibitor human,a0,0,1,730,6529,0
+1235,alprazolam,a0,57,589,673,5941,0
+63,alteplase,a0,90,625,640,5905,2
+62,alteplase recombinant,a0,90,625,640,5905,2
+1275,aluminum (as hydroxide),a0,213,1977,517,4553,0
+1274,aluminum hydroxide,a0,213,1977,517,4553,0
+650,alvimopan,a0,0,5,730,6525,0
+931,amantadine,a0,4,38,726,6492,1
+186,ambrisentan,a0,2,6,728,6524,0
+176,amikacin,a0,3,9,727,6521,2
+366,amiloride,a0,2,7,728,6523,1
+74,aminocaproic acid,a0,31,175,699,6355,3
+989,aminophylline,a0,5,51,725,6479,0
+15,amiodarone,a0,66,378,664,6152,2
+1223,amitriptyline,a0,24,307,706,6223,0
+1227,amlodipine,a0,75,709,655,5821,0
+195,ammonia,a0,1,3,729,6527,0
+1077,amoxicillin,a0,17,159,713,6371,1
+1051,amphetamine,a0,2,48,728,6482,0
+81,amphotericin b,a0,3,2,727,6528,5
+35,amphotericin b lipid complex,a0,10,11,720,6519,5
+34,amphotericin b liposome,a0,10,11,720,6519,5
+41,ampicillin,a0,31,154,699,6376,2
+319,amyl nitrite,a0,0,1,730,6529,0
+1160,amylase,a0,10,129,720,6401,0
+1156,amylase preparation,a0,10,129,720,6401,0
+1155,amylases,a0,10,129,720,6401,0
+638,anastrozole,a0,3,17,727,6513,0
+24,antidiuretic hormone,a0,14,24,716,6506,5
+137,antihemophilic factor,a0,1,1,729,6529,0
+408,antipyrine,a0,0,2,730,6528,0
+117,antithrombin iii,a0,1,0,729,6530,0
+115,antithrombin iii preparation,a0,1,0,729,6530,0
+479,apixaban,a0,1,5,729,6525,1
+272,apple cider vinegar,a0,0,1,730,6529,0
+671,aprepitant,a0,4,23,726,6507,0
+665,arformoterol,a0,0,5,730,6525,0
+610,argatroban,a0,0,4,730,6526,0
+304,arginine,a0,0,1,730,6529,0
+1089,aripiprazole,a0,5,79,725,6451,0
+521,armodafinil,a0,0,3,730,6527,0
+1251,ascorbic acid,a0,32,407,698,6123,0
+598,asenapine,a0,0,4,730,6526,0
+871,aspart insulin,a0,233,1841,497,4689,1
+1236,aspirin,a0,195,1717,535,4813,2
+760,atazanavir,a0,2,16,728,6514,0
+1134,atenolol,a0,10,124,720,6406,1
+601,atomoxetine,a0,0,4,730,6526,0
+755,atorvastatin,a0,71,510,659,6020,0
+367,atovaquone,a0,2,7,728,6523,2
+38,atropine,a0,73,468,657,6062,0
+474,avacavir (abacavir?),a0,1,5,729,6525,0
+430,axitinib,a0,0,2,730,6528,0
+217,azacitidine,a0,0,1,730,6529,2
+624,azathioprine,a0,8,44,722,6486,1
+192,azelastine,a0,2,6,728,6524,0
+999,azithromycin,a0,19,146,711,6384,2
+706,aztreonam,a0,4,24,726,6506,1
+1258,bacitracin,a0,42,528,688,6002,2
+1259,bacitracin product,a0,42,528,688,6002,2
+1202,baclofen,a0,22,268,708,6262,1
+541,balsalazide,a0,0,3,730,6527,2
+511,balsam of peru,a0,0,3,730,6527,0
+54,basiliximab,a0,6,7,724,6523,4
+863,beclomethasone,a0,5,38,725,6492,0
+862,beclomethasone preparation,a0,5,38,725,6492,0
+485,belladonna alkaloid,a0,4,18,726,6512,0
+484,belladonna alkaloids,a0,4,18,726,6512,0
+669,benazepril,a0,2,13,728,6517,2
+1179,benzocaine,a0,17,195,713,6335,0
+389,benzoin compound,a0,0,2,730,6528,0
+1074,benzonatate,a0,13,129,717,6401,0
+700,benzoyl peroxide,a0,0,6,730,6524,0
+683,benzoyl peroxide product,a0,0,6,730,6524,0
+1076,benztropine,a0,3,64,727,6466,0
+380,benzylpenicillin sodium,a0,1,4,729,6526,2
+347,bepotastine,a0,0,1,730,6529,0
+664,beta carotene,a0,0,5,730,6525,0
+655,beta-carotene,a0,0,5,730,6525,0
+653,beta-carotene product,a0,0,5,730,6525,0
+905,betamethasone,a0,3,29,727,6501,0
+906,betamethasone preparation,a0,3,29,727,6501,0
+349,betaxolol,a0,0,1,730,6529,1
+901,bethanechol,a0,0,14,730,6516,0
+550,bevacizumab,a0,0,3,730,6527,3
+325,bexarotene,a0,0,1,730,6529,0
+684,bicalutamide,a0,0,6,730,6524,0
+427,bilberry,a0,0,2,730,6528,0
+405,bilberry extract,a0,0,2,730,6528,0
+85,bimatoprost,a0,3,3,727,6527,0
+842,biotin,a0,1,16,729,6514,0
+843,biotin preparation,a0,1,16,729,6514,0
+1323,bisacodyl,a0,215,2690,515,3840,0
+886,bismuth subsalicylate,a0,1,18,729,6512,0
+680,bisoprolol,a0,2,14,728,6516,1
+962,bivalirudin,a0,2,30,728,6500,2
+464,black cohosh,a0,0,2,730,6528,0
+456,black cohosh extract,a0,0,2,730,6528,0
+654,bleomycin,a0,0,5,730,6525,2
+255,boceprevir,a0,0,1,730,6529,0
+632,bortezomib,a0,1,8,729,6522,2
+831,bosentan,a0,0,11,730,6519,0
+128,brimonidine,a0,4,11,726,6519,0
+113,brinzolamide,a0,1,0,729,6530,1
+811,bromocriptine,a0,0,10,730,6520,0
+262,brompheniramine,a0,0,1,730,6529,0
+1032,budesonide,a0,20,162,710,6368,0
+182,bumetanide,a0,6,24,724,6506,1
+1285,bupivacaine,a0,45,671,685,5859,0
+555,buprenorphine,a0,2,10,728,6520,0
+1249,bupropion,a0,9,231,721,6299,1
+1073,buspirone,a0,5,75,725,6455,0
+86,busulfan,a0,6,16,724,6514,3
+1057,butalbital,a0,1,44,729,6486,0
+627,butamben,a0,2,12,728,6518,0
+964,butorphanol,a0,2,30,728,6500,1
+626,butyl aminobenzoate,a0,2,12,728,6518,0
+242,c1 inhibitor (esterase?),a0,0,1,730,6529,0
+231,c1 inhibitor (human) (esterase?),a0,0,1,730,6529,0
+518,cabergoline,a0,0,3,730,6527,0
+1135,caffeine,a0,4,84,726,6446,0
+636,calamine,a0,1,8,729,6522,0
+514,calcipotriene,a0,0,3,730,6527,0
+519,calcipotriene preparation,a0,0,3,730,6527,0
+554,calcipotriol,a0,0,3,730,6527,0
+785,calcitonin salmon,a0,1,13,729,6517,0
+779,calcitriol,a0,2,17,728,6513,0
+781,calcitriol preparation,a0,2,17,728,6513,0
+1277,calcium (as calcium carbonate),a0,62,741,668,5789,1
+1278,calcium (as carbonate),a0,62,741,668,5789,1
+566,calcium (as citrate),a0,4,20,726,6510,0
+557,calcium acetate,a0,2,10,728,6520,0
+536,calcium ascorbate,a0,0,3,730,6527,0
+1276,calcium carbonate,a0,62,741,668,5789,1
+1286,calcium chloride,a0,163,1633,567,4897,1
+565,calcium citrate,a0,4,20,726,6510,0
+16,calcium gluconate,a0,44,218,686,6312,3
+155,calcium polycarbophil,a0,2,4,728,6526,0
+564,camphor,a0,4,20,726,6510,0
+676,camustine (carmustine?),a0,1,9,729,6521,2
+678,capecitabine,a0,1,9,729,6521,2
+569,capsaicin,a0,2,11,728,6519,0
+647,captopril,a0,0,5,730,6525,3
+346,carbachol,a0,0,1,730,6529,0
+1022,carbamazepine,a0,5,58,725,6472,2
+852,carbamide peroxide,a0,0,12,730,6518,0
+973,carbidopa,a0,0,21,730,6509,0
+144,carbonyl iron (fe(co)5),a0,1,1,729,6529,0
+845,carboplatin,a0,2,21,728,6509,1
+997,carboprost,a0,1,29,729,6501,1
+860,carboxymethylcellulose,a0,4,32,726,6498,0
+273,carfilzomib,a0,0,1,730,6529,4
+1001,carisoprodol,a0,3,42,727,6488,0
+674,carmustine,a0,1,9,729,6521,2
+649,carotene beta,a0,0,5,730,6525,0
+1020,carvedilol,a0,61,466,669,6064,0
+300,casanthranol,a0,0,1,730,6529,0
+244,cascara,a0,0,1,730,6529,0
+338,cascara sagrada,a0,0,1,730,6529,0
+343,cascara sagrada extract,a0,0,1,730,6529,0
+12,caspofungin,a0,19,31,711,6499,5
+530,castor oil,a0,0,3,730,6527,0
+525,castor oil liquid,a0,0,3,730,6527,0
+1290,cefazolin,a0,146,1525,584,5005,2
+317,cefdinir,a0,0,1,730,6529,2
+214,cefdinir product,a0,0,1,730,6529,2
+96,cefepime,a0,60,400,670,6130,2
+95,cefepime product,a0,60,400,670,6130,2
+608,cefixime,a0,0,4,730,6526,2
+577,cefotaxime,a0,1,7,729,6523,2
+558,cefoxitin,a0,17,99,713,6431,2
+890,cefpodoxime,a0,2,23,728,6507,1
+635,ceftaroine,a0,1,8,729,6522,2
+629,ceftaroline,a0,1,8,729,6522,2
+911,ceftazidime,a0,1,19,729,6511,2
+1209,ceftriaxone,a0,92,820,638,5710,2
+873,cefuroxime,a0,2,22,728,6508,2
+1210,celecoxib,a0,8,172,722,6358,2
+1211,celecoxib product,a0,8,172,722,6358,2
+1193,cephalexin,a0,8,152,722,6378,2
+1291,cephazolin,a0,146,1525,584,5005,2
+1196,cetirizine,a0,14,200,716,6330,0
+433,cetuximab,a0,0,2,730,6528,3
+609,cevimeline,a0,0,4,730,6526,0
+715,charcoal activated,a0,1,10,729,6520,0
+111,chloramphenicol,a0,1,0,729,6530,0
+105,chloramphenicol (class of antibiotic),a0,1,0,729,6530,0
+1173,chlordiazepoxide,a0,2,87,728,6443,0
+641,chlorhexidine,a0,19,116,711,6414,0
+1305,chloride (as potassium),a0,466,4419,264,2111,1
+443,chloroprocaine,a0,0,2,730,6528,0
+438,chloroprocaine product,a0,0,2,730,6528,0
+323,chlorothiazide,a0,0,1,730,6529,2
+865,chlorpheniramine,a0,5,38,725,6492,0
+1059,chlorpromazine,a0,5,70,725,6460,0
+966,chlortalidone,a0,0,20,730,6510,0
+967,chlorthalidone,a0,0,20,730,6510,2
+409,chlorzoxazone,a0,0,2,730,6528,0
+471,chlorzoxozone,a0,0,2,730,6528,0
+1247,cholecalciferol,a0,74,732,656,5798,0
+1246,cholecalciferol preparation,a0,74,732,656,5798,0
+620,cholestyramine,a0,6,32,724,6498,0
+621,cholestyramine resin,a0,6,32,724,6498,0
+749,chondroitin sulfate,a0,0,7,730,6523,0
+729,chondroitin sulfates,a0,0,7,730,6523,0
+745,chromium picolinate,a0,0,7,730,6523,0
+442,ciclesonide,a0,0,2,730,6528,0
+227,ciclopirox,a0,0,1,730,6529,0
+53,ciclosporin,a0,15,56,715,6474,4
+377,cidofovir,a0,1,4,729,6526,4
+432,cilastatin,a0,0,2,730,6528,2
+138,cilostazol,a0,1,1,729,6529,0
+593,cimetidine,a0,0,4,730,6526,2
+426,cimicifuga racemosa extract,a0,0,2,730,6528,0
+390,cimicifuga racemosa preparation,a0,0,2,730,6528,0
+597,cinacalcet,a0,0,4,730,6526,0
+1149,ciprofloxacin,a0,30,272,700,6258,2
+1150,ciprofloxacin ophthalmic preparation,a0,30,272,700,6258,2
+791,cisatracurium,a0,0,9,730,6521,0
+670,cisplatin,a0,2,13,728,6517,4
+1233,citalopram,a0,47,508,683,6022,2
+1148,citric acid,a0,1,67,729,6463,0
+1147,citric acid preparation,a0,1,67,729,6463,0
+929,clarithromycin,a0,1,21,729,6509,2
+1064,clavulanate (only ever with another drug?),a0,13,124,717,6406,0
+334,clemastine,a0,0,1,730,6529,0
+605,clidinium (with chlordiazepoxide?),a0,0,4,730,6526,0
+1205,clindamycin,a0,20,256,710,6274,0
+375,clobazam,a0,1,4,729,6526,0
+898,clobetasol,a0,5,40,725,6490,0
+379,clofarabine,a0,1,4,729,6526,3
+283,clomiphene,a0,0,1,730,6529,0
+1225,clonazepam,a0,44,463,686,6067,0
+567,clonidine,a0,30,191,700,6339,1
+1094,clopidogrel,a0,21,192,709,6338,0
+932,clorazepate,a0,0,17,730,6513,0
+933,clorazepate product,a0,0,17,730,6513,0
+882,clotrimazole,a0,7,51,723,6479,0
+667,clozapine,a0,2,13,728,6517,2
+481,coagulation factor viia,a0,4,18,726,6512,0
+143,coagulation factor viii,a0,1,1,729,6529,0
+291,coal tar,a0,0,1,730,6529,0
+293,coal tar agent,a0,0,1,730,6529,0
+215,coal tar crude,a0,0,1,730,6529,0
+224,coal tar preparation,a0,0,1,730,6529,0
+130,cocaine,a0,1,1,729,6529,0
+1084,codeine,a0,31,262,699,6268,0
+93,coenzyme q10,a0,8,29,722,6501,0
+942,colchcine,a0,2,28,728,6502,1
+944,colchicine,a0,2,28,728,6502,1
+582,colesevelam,a0,1,7,729,6523,0
+634,colestipol,a0,1,8,729,6522,0
+191,colistimethate,a0,2,6,728,6524,2
+708,collagenase,a0,7,41,723,6489,0
+707,collagenase preparation,a0,7,41,723,6489,0
+709,collagenase product,a0,7,41,723,6489,0
+710,collagenases,a0,7,41,723,6489,0
+440,compound tincture benzoin,a0,0,2,730,6528,0
+257,conivaptan,a0,0,1,730,6529,1
+980,conjugated estrogen,a0,4,43,726,6487,0
+977,conjugated estrogen preparation,a0,4,43,726,6487,0
+315,copper (as cupric chloride),a0,0,1,730,6529,0
+172,copper gluconate,a0,1,2,729,6528,0
+559,corn oil,a0,5,25,725,6505,0
+560,corn oil - dietary,a0,5,25,725,6505,0
+335,cortisone,a0,0,1,730,6529,0
+269,cortisone preparation,a0,0,1,730,6529,0
+1081,cosyntropin,a0,8,98,722,6432,0
+1082,cosyntropin preparation,a0,8,98,722,6432,0
+888,cranberry,a0,1,18,729,6512,0
+887,cranberry extract,a0,1,18,729,6512,0
+644,cromolyn,a0,0,5,730,6525,0
+281,cupric chloride,a0,0,1,730,6529,0
+212,curcuma,a0,0,1,730,6529,0
+1146,cyanocobalamin,a0,22,211,708,6319,0
+1142,cyanocobalamin preparation,a0,22,211,708,6319,0
+1145,cyanocobalmin,a0,22,211,708,6319,0
+1220,cyclobenzaprine,a0,48,479,682,6051,0
+602,cyclopentolate,a0,0,4,730,6526,0
+386,cyclophosphamide,a0,10,51,720,6479,0
+52,cyclosporine,a0,15,56,715,6474,4
+693,cyproheptadine,a0,0,6,730,6524,0
+875,cytarabine,a0,12,82,718,6448,3
+934,dabigatran etexilate,a0,0,17,730,6513,1
+152,dacarbazine,a0,2,4,728,6526,1
+688,dalfampridine,a0,0,6,730,6524,1
+292,dalteparin,a0,0,1,730,6529,0
+421,danazol,a0,0,2,730,6528,1
+459,danazol preparation,a0,0,2,730,6528,0
+666,dantrolene,a0,0,5,730,6525,0
+88,dapsone,a0,12,51,718,6479,1
+45,daptomycin,a0,19,76,711,6454,3
+235,darbepoetin alfa,a0,0,1,730,6529,0
+223,darifenacin,a0,0,1,730,6529,0
+721,darunavir,a0,2,15,728,6515,3
+774,dasatinib,a0,0,8,730,6522,0
+161,daunorubicin,a0,1,2,729,6528,2
+47,deamino arginine vasopressin,a0,17,64,713,6466,3
+551,deferasirox,a0,0,3,730,6527,4
+547,dehydroepiandrosterone,a0,0,3,730,6527,0
+532,dehydroepiandrosterone preparation,a0,0,3,730,6527,0
+1026,delta-9-tetrahydrocannabinol,a0,6,67,724,6463,0
+553,demeclocycline,a0,0,3,730,6527,2
+529,denosumab,a0,0,3,730,6527,0
+1195,desflurane,a0,14,199,716,6331,0
+148,desipramine,a0,1,1,729,6529,0
+313,desloratadine,a0,0,1,730,6529,0
+48,desmopressin,a0,17,64,713,6466,3
+49,desmopressin preparation,a0,17,64,713,6466,3
+835,desonide,a0,0,11,730,6519,0
+203,desoximetasone,a0,1,3,729,6527,0
+952,desvenlafaxine,a0,0,18,730,6512,1
+1308,dexamethasone,a0,100,1331,630,5199,0
+1309,dexamethasone preparation,a0,100,1331,630,5199,0
+458,dexchlorpheniramine,a0,0,2,730,6528,0
+769,dexlansoprazole,a0,0,8,730,6522,2
+488,dexmedetomidine,a0,35,226,695,6304,0
+359,dexmethylphenidate,a0,0,1,730,6529,0
+174,dextran 70,a0,1,2,729,6528,1
+1062,dextroamphetamine,a0,2,52,728,6478,0
+1136,dextromethorphan,a0,4,84,726,6446,0
+899,dextropropoxyphene,a0,0,14,730,6516,0
+885,dextrose,a0,185,1444,545,5086,1
+1231,diazepam,a0,61,605,669,5925,0
+810,dichloralantipyrine,a0,0,10,730,6520,0
+808,dichloralphenazone,a0,0,10,730,6520,0
+812,dichlorophenazone,a0,0,10,730,6520,0
+1008,diclofenac,a0,3,44,727,6486,2
+1009,diclofenac product,a0,3,44,727,6486,2
+270,dicloxacillin,a0,0,1,730,6529,0
+1164,dicyclomine,a0,10,133,720,6397,0
+539,didanosine,a0,0,3,730,6527,1
+388,difluprednate,a0,0,2,730,6528,0
+895,digoxin,a0,12,83,718,6447,1
+787,dihydroergotamine,a0,1,13,729,6517,1
+619,diltiazem,a0,35,229,695,6301,0
+738,dinoprostone,a0,0,7,730,6523,0
+740,dinoprostone preparation,a0,0,7,730,6523,0
+1325,dioctyl sulfosuccinate,a0,440,4704,290,1826,0
+1284,diphenhydramine,a0,318,2931,412,3599,1
+820,diphenoxylate,a0,8,53,722,6477,0
+1097,diphtheria toxoid,a0,12,129,718,6401,0
+1096,diphtheria vaccine,a0,12,129,718,6401,0
+1000,dipyridamole,a0,0,25,730,6505,0
+320,disopyramide,a0,0,1,730,6529,1
+356,disulfiram,a0,0,1,730,6529,0
+1099,divalproex,a0,4,76,726,6454,0
+59,dobutamine,a0,10,32,720,6498,0
+535,docetaxel,a0,0,3,730,6527,2
+1326,docusate,a0,440,4704,290,1826,0
+998,dofetilide,a0,1,30,729,6500,0
+855,donepezil,a0,0,12,730,6518,2
+183,dopamine,a0,6,24,724,6506,0
+947,dornase alfa,a0,5,45,725,6485,0
+948,dornase alfa rdna,a0,5,45,725,6485,0
+495,dorzolamide,a0,1,6,729,6524,1
+1003,doxazosin,a0,1,31,729,6499,0
+681,doxepin,a0,2,14,728,6516,0
+1007,doxorubicin,a0,1,32,729,6498,0
+411,doxorubicin liposomal,a0,0,2,730,6528,0
+399,doxorubicin liposome,a0,0,2,730,6528,0
+1229,doxycycline,a0,23,309,707,6221,0
+763,doxylamine,a0,1,12,729,6518,0
+1028,dronabinol,a0,6,67,724,6463,0
+853,dronedarone,a0,0,12,730,6518,0
+1079,droperidol,a0,1,53,729,6477,0
+1221,duloxetine,a0,15,229,715,6301,1
+658,dutasteride,a0,0,5,730,6525,0
+396,echinacea,a0,0,2,730,6528,0
+391,echinacea extract,a0,0,2,730,6528,0
+469,echinacea preparation,a0,0,2,730,6528,0
+1016,efavirenz,a0,0,28,730,6502,0
+767,eletriptan,a0,0,8,730,6522,0
+119,eltrombopag,a0,1,0,729,6530,2
+1035,emtricitabine,a0,3,50,727,6480,1
+841,enalapril,a0,5,37,725,6493,2
+762,enalaprilat,a0,1,12,729,6518,2
+1153,endopeptidase,a0,10,129,720,6401,0
+1152,endopeptidases,a0,10,129,720,6401,0
+268,enfuvirtide,a0,0,1,730,6529,2
+1324,enoxaparin,a0,327,3692,403,2838,1
+397,entacapone,a0,0,2,730,6528,0
+202,entecavir,a0,1,3,729,6527,3
+1256,ephedrine,a0,60,652,670,5878,0
+306,epinastine,a0,0,1,730,6529,0
+1216,epinephrine,a0,77,703,653,5827,0
+1217,epinephrine preparation,a0,77,703,653,5827,0
+867,epinephrine racemic,a0,3,27,727,6503,0
+201,eplerenone,a0,1,3,729,6527,2
+562,epoetin alfa,a0,8,42,722,6488,0
+561,epoetin alfa recombinant,a0,8,42,722,6488,0
+188,epoprostenol,a0,2,6,728,6524,0
+795,eptifibatide,a0,2,18,728,6512,1
+1242,ergocalciferol,a0,32,402,698,6128,0
+1244,ergocalciferol preparation,a0,32,402,698,6128,0
+663,ergotamine,a0,0,5,730,6525,1
+754,erlotinib,a0,1,11,729,6519,2
+994,ertapenem,a0,44,328,686,6202,2
+813,erythromycin,a0,12,78,718,6452,0
+1175,escitalopram,a0,24,244,706,6286,2
+968,esmolol,a0,19,140,711,6390,0
+1052,esomeprazole,a0,64,500,666,6030,1
+743,esterified estrogen,a0,0,7,730,6523,0
+748,esterified estrogen preparation,a0,0,7,730,6523,0
+1126,estradiol,a0,4,80,726,6450,0
+1127,estradiol 17-beta,a0,4,80,726,6450,0
+1128,estradiol preparation,a0,4,80,726,6450,0
+975,estrogens  conjugated (usp),a0,4,43,726,6487,0
+746,estrogens  esterified (usp),a0,0,7,730,6523,0
+981,estrogens conjugated,a0,4,43,726,6487,0
+741,estrogens esterified,a0,0,7,730,6523,0
+403,estropipate,a0,0,2,730,6528,0
+462,estropipate preparation,a0,0,2,730,6528,0
+913,eszopiclone,a0,0,15,730,6515,0
+82,etanercept,a0,4,6,726,6524,3
+185,ethambutol,a0,2,6,728,6524,1
+393,ethanol,a0,0,2,730,6528,0
+917,ethinyl estradiol,a0,0,15,730,6515,1
+914,ethinyl estradiol preparation,a0,0,15,730,6515,1
+413,ethyl alcohol,a0,0,2,730,6528,0
+437,ethynodiol,a0,0,2,730,6528,0
+419,etidronate,a0,0,2,730,6528,0
+689,etodolac,a0,0,6,730,6524,2
+28,etomidate,a0,26,106,704,6424,1
+294,etonogestrel,a0,0,1,730,6529,0
+728,etoposide,a0,8,48,722,6482,0
+571,etravirine,a0,1,7,729,6523,3
+591,everolimus,a0,0,4,730,6526,4
+523,exemestane,a0,0,3,730,6527,0
+489,exenatide,a0,1,6,729,6524,2
+896,ezetimibe,a0,12,83,718,6447,0
+482,factor viia,a0,4,18,726,6512,0
+483,factor viia products,a0,4,18,726,6512,0
+150,factor viii,a0,1,1,729,6529,0
+134,factor viii product,a0,1,1,729,6529,0
+534,famciclovir,a0,0,3,730,6527,1
+1272,famotidine,a0,197,1815,533,4715,1
+699,fampridine,a0,0,6,730,6524,1
+685,fampridine (4-aminopyridine),a0,0,6,730,6524,1
+394,febuxostat,a0,0,2,730,6528,3
+280,felbamate,a0,0,1,730,6529,2
+298,felbamate product,a0,0,1,730,6529,2
+156,felodipine,a0,2,4,728,6526,0
+1024,fenofibrate,a0,9,84,721,6446,2
+1273,fentanyl,a0,411,3645,319,2885,2
+365,fentanyl citrate,a0,2,7,728,6523,2
+497,ferric na gluconate,a0,1,6,729,6524,0
+494,ferric na gluconate complex,a0,1,6,729,6524,0
+815,ferric oxide  saccharated,a0,9,59,721,6471,0
+510,ferrous fumarate,a0,0,3,730,6527,0
+160,ferrous gluconate,a0,8,34,722,6496,0
+1241,ferrous sulfate,a0,51,549,679,5981,0
+402,fesoterodine,a0,0,2,730,6528,1
+912,fexofenadine,a0,3,30,727,6500,0
+364,fidaxomicin,a0,2,7,728,6523,0
+622,filgrastim,a0,27,171,703,6359,0
+844,finasteride,a0,2,21,728,6509,0
+465,fingolimod,a0,0,2,730,6528,0
+109,flavoxate,a0,1,0,729,6530,0
+847,flaxseed oil,a0,2,21,728,6509,0
+827,flecainide,a0,1,15,729,6515,0
+22,fluconazole,a0,80,503,650,6027,3
+80,flucytosine,a0,3,2,727,6528,5
+56,fludarabine,a0,7,13,723,6517,3
+1063,fludrocortisone,a0,2,52,728,6478,0
+1061,fludrocortisone preparation,a0,2,52,728,6478,0
+1187,flumazenil,a0,49,446,681,6084,0
+533,flunisolide,a0,0,3,730,6527,0
+503,flunisolide preparation,a0,0,3,730,6527,0
+617,fluocinolone,a0,0,4,730,6526,0
+771,fluocinonide,a0,0,8,730,6522,0
+804,fluoride (as sodium fluoride),a0,3,24,727,6506,0
+803,fluoride (as sodium),a0,3,24,727,6506,0
+285,fluorometholone,a0,0,1,730,6529,0
+236,fluorometholone preparation,a0,0,1,730,6529,0
+713,fluorouracil,a0,1,10,729,6520,0
+1192,fluoxetine,a0,16,203,714,6327,1
+467,fluphenazine,a0,0,2,730,6528,0
+222,flurandrenolide,a0,0,1,730,6529,0
+254,flurandrenolide preparation,a0,0,1,730,6529,0
+276,flurandrenolone,a0,0,1,730,6529,0
+219,flurazepam,a0,0,1,730,6529,0
+526,flurbiprofen,a0,0,3,730,6527,2
+1248,fluticasone,a0,61,629,669,5901,0
+416,fluvoxamine,a0,0,2,730,6528,1
+1271,folic acid,a0,55,653,675,5877,0
+1270,folic acid preparation,a0,55,653,675,5877,0
+992,folinic acid,a0,8,70,722,6460,0
+1101,fondaparinux,a0,9,109,721,6421,1
+751,formoterol,a0,15,93,715,6437,0
+166,fosamprenavir,a0,1,2,729,6528,0
+57,foscarnet,a0,4,1,726,6529,5
+385,fosinopril,a0,4,17,726,6513,2
+480,fosphenytoin,a0,7,34,723,6496,0
+4,furosemide,a0,230,1298,500,5232,4
+1260,gabapentin,a0,88,898,642,5632,2
+55,ganciclovir,a0,6,8,724,6522,4
+233,ganirelix,a0,0,1,730,6529,0
+672,garlic product,a0,1,9,729,6521,0
+363,gemcitabine,a0,2,7,728,6523,2
+782,gemfibrozil,a0,3,22,727,6508,2
+1045,gentamicin sulfate,a0,2,47,728,6483,3
+1046,gentamicin sulfate (usp),a0,2,47,728,6483,3
+1047,gentamycin sulfate,a0,2,47,728,6483,3
+309,ginger,a0,0,1,730,6529,0
+747,ginkgo,a0,0,7,730,6523,0
+737,ginkgo biloba,a0,0,7,730,6523,0
+731,ginkgo biloba extract,a0,0,7,730,6523,0
+750,ginkgo biloba preparation,a0,0,7,730,6523,0
+657,ginseng,a0,0,5,730,6525,0
+660,ginseng extract,a0,0,5,730,6525,0
+659,ginseng product,a0,0,5,730,6525,0
+540,glacial acetic acid,a0,0,3,730,6527,0
+725,glargine,a0,97,715,633,5815,0
+613,glatiramer,a0,0,4,730,6526,0
+874,glimepiride,a0,10,69,720,6461,0
+36,glipizide,a0,21,82,709,6448,1
+179,globulin immune (iv),a0,11,53,719,6477,2
+1071,glucagon,a0,7,86,723,6444,0
+1070,glucagon product,a0,7,86,723,6444,0
+828,glucosamine,a0,2,20,728,6510,0
+884,glucose,a0,185,1444,545,5086,1
+883,glucose preparation,a0,185,1444,545,5086,1
+604,glutamine,a0,0,4,730,6526,0
+1053,glyburide,a0,6,73,724,6457,1
+963,glycerin,a0,2,30,728,6500,0
+965,glycerol,a0,2,30,728,6500,0
+1311,glycopyrrolate,a0,54,1051,676,5479,0
+472,granisetron,a0,1,5,729,6525,0
+410,grape seed extract,a0,0,2,730,6528,0
+211,green tea,a0,0,1,730,6529,0
+1261,guaifenesin,a0,23,385,707,6145,0
+538,guanfacine,a0,0,3,730,6527,1
+454,guar gum,a0,0,2,730,6528,0
+1245,haloperidol,a0,22,326,708,6204,0
+66,heparin,a0,99,697,631,5833,2
+512,hepatitis a,a0,0,3,730,6527,0
+505,hepatitis a vaccine (inactivated),a0,0,3,730,6527,0
+537,hepatitis a virus vaccine,a0,0,3,730,6527,0
+136,hepatitis b hyperimmune globulin,a0,1,1,729,6529,0
+133,hepatitis b immune globulin,a0,1,1,729,6529,0
+131,hepatitis b immune globulin (human),a0,1,1,729,6529,0
+147,hepatitis b immune globulin human,a0,1,1,729,6529,0
+1120,hetastarch,a0,7,99,723,6431,1
+339,hexachlorophene,a0,0,1,730,6529,0
+679,homatropine,a0,3,18,727,6512,0
+316,human c1 esterase inhibitor,a0,0,1,730,6529,0
+327,human growth hormone,a0,0,1,730,6529,0
+228,human immunoglobulin,a0,0,1,730,6529,2
+234,human immunoglobulin product,a0,0,1,730,6529,2
+1106,human insulin,a0,38,319,692,6211,0
+1104,human insulin product,a0,38,319,692,6211,0
+1141,human isophane insulin,a0,19,189,711,6341,0
+7,human serum albumin,a0,121,665,609,5865,1
+5,human serum albumin preparation,a0,121,665,609,5865,1
+1234,hydralazine,a0,74,723,656,5807,1
+1189,hydrochlorothiazide,a0,64,566,666,5964,2
+1279,hydrocodone,a0,117,1189,613,5341,1
+1166,hydrocortisone,a0,40,353,690,6177,0
+1165,hydrocortisone preparation,a0,40,353,690,6177,0
+1215,hydromorphone,a0,172,1475,558,5055,1
+226,hydroxocobalamin,a0,0,1,730,6529,0
+919,hydroxycarbamide,a0,2,25,728,6505,1
+971,hydroxychloroquine,a0,8,67,722,6463,0
+1119,hydroxyethyl starch,a0,7,99,723,6431,2
+1012,hydroxypropyl methylcellulose,a0,29,222,701,6308,0
+1013,hydroxypropyl methylcellulose product,a0,29,222,701,6308,0
+920,hydroxyurea,a0,2,25,728,6505,1
+1262,hydroxyzine,a0,24,393,706,6137,0
+972,hyoscyamine,a0,22,162,708,6368,0
+1014,hypromellose,a0,29,222,701,6308,0
+527,ibandronate,a0,0,3,730,6527,1
+1303,ibuprofen,a0,70,1055,660,5475,2
+839,ibutilide,a0,0,11,730,6519,2
+354,icatibant,a0,0,1,730,6529,0
+395,idarubicin,a0,0,2,730,6528,2
+368,ifosfamide,a0,5,21,725,6509,3
+114,iloperidone,a0,1,0,729,6530,1
+197,iloprost,a0,1,3,729,6527,2
+581,imatinib,a0,1,7,729,6523,2
+475,imipramine,a0,1,5,729,6525,0
+141,imiquimod,a0,1,1,729,6529,0
+180,immunoglobulins  intravenous,a0,11,53,719,6477,2
+205,indapamide,a0,0,1,730,6529,0
+893,indometacin (indomethacin?),a0,2,23,728,6507,2
+889,indomethacin,a0,2,23,728,6507,2
+770,infliximab,a0,0,8,730,6522,2
+894,inositol,a0,2,23,728,6507,0
+892,inositol preparation,a0,2,23,728,6507,0
+1107,insulin  regular  human,a0,38,319,692,6211,0
+870,insulin aspart,a0,233,1841,497,4689,1
+872,insulin aspart human/rdna,a0,233,1841,497,4689,1
+502,insulin aspart protamine,a0,0,3,730,6527,0
+507,insulin aspart protamine,a0,0,3,730,6527,0
+757,insulin detemir,a0,6,37,724,6493,0
+756,insulin detemir product,a0,6,37,724,6493,0
+723,insulin glargine,a0,97,715,633,5815,0
+724,insulin glargine human/rdna,a0,97,715,633,5815,0
+726,insulin glargine product,a0,97,715,633,5815,0
+121,insulin glulisine,a0,2,3,728,6527,0
+127,insulin glulisine human,a0,2,3,728,6527,0
+126,insulin glulisine product,a0,2,3,728,6527,0
+329,insulin lente human/rdna,a0,0,1,730,6529,0
+358,insulin lente human/semisynthetic,a0,0,1,730,6529,0
+924,insulin lispro,a0,26,183,704,6347,1
+925,insulin lispro human/rdna,a0,26,183,704,6347,1
+165,insulin lispro protamine,a0,1,2,729,6528,0
+164,insulin lispro protamine/rdna,a0,1,2,729,6528,0
+1137,insulin nph human/rdna,a0,19,189,711,6341,0
+1140,insulin nph human/semisynthetic,a0,19,189,711,6341,0
+1103,insulin regular human buffered,a0,38,319,692,6211,0
+1105,insulin regular human/rdna,a0,38,319,692,6211,0
+1102,insulin regular human/semisynthetic,a0,38,319,692,6211,0
+101,interferon alfa 2-b,a0,2,2,728,6528,2
+99,interferon alfa-2b,a0,2,2,728,6528,2
+102,interferon alfa-2b recombinant,a0,2,2,728,6528,2
+97,interferon alpha-2b,a0,2,2,728,6528,2
+100,interferon alpha-2b preparation,a0,2,2,728,6528,2
+531,interferon beta-1a,a0,0,3,730,6527,0
+515,interferon beta-1a preparation,a0,0,3,730,6527,0
+420,interferon beta-1b,a0,0,2,730,6528,0
+446,interferon beta-1b preparation,a0,0,2,730,6528,0
+181,intravenous immunoglobulin,a0,11,53,719,6477,2
+468,inulin,a0,0,2,730,6528,0
+245,iodine (as potassium iodide),a0,0,1,730,6529,0
+369,ipratropium,a0,105,766,625,5764,1
+599,irbesartan,a0,0,4,730,6526,2
+516,iron (as ferrous fumarate),a0,0,3,730,6527,0
+159,iron (as ferrous gluconate),a0,8,34,722,6496,0
+1240,iron (as ferrous sulfate),a0,51,549,679,5981,0
+858,iron (as polysaccharide complex),a0,0,12,730,6518,0
+854,iron (as polysaccharide-iron complex),a0,0,12,730,6518,0
+145,iron carbonyl,a0,1,1,729,6529,0
+959,iron dextran,a0,0,19,730,6511,0
+958,iron dextran complex,a0,0,19,730,6511,0
+859,iron polysaccharide complex,a0,0,12,730,6518,0
+816,iron sucrose,a0,9,59,721,6471,0
+960,iron-dextran complex,a0,0,19,730,6511,0
+1170,isoflurane,a0,79,661,651,5869,1
+809,isometheptene,a0,0,10,730,6520,0
+824,isoniazid,a0,1,15,729,6515,0
+1139,isophane insulin  human,a0,19,189,711,6341,0
+1138,isophane insulin human,a0,19,189,711,6341,0
+331,isopropyl alcohol,a0,0,1,730,6529,0
+1058,isoproterenol,a0,1,44,729,6486,0
+761,isosorbide,a0,11,68,719,6462,0
+94,isosorbide dinitrate,a0,4,9,726,6521,0
+773,itraconazole,a0,0,8,730,6522,0
+243,ivermectin,a0,0,1,730,6529,0
+1040,kaolin,a0,31,244,699,6286,0
+1041,kaolin product,a0,31,244,699,6286,0
+311,kava,a0,0,1,730,6529,0
+207,kava extract,a0,0,1,730,6529,0
+352,kava preparation,a0,0,1,730,6529,0
+1206,ketamine,a0,12,198,718,6332,0
+758,ketoconazole,a0,4,26,726,6504,0
+345,ketoprofen,a0,0,1,730,6529,2
+1298,ketorolac,a0,67,904,663,5626,2
+310,ketotifen,a0,0,1,730,6529,0
+1042,labetalol,a0,44,342,686,6188,0
+800,lacosamide,a0,1,14,729,6516,1
+198,lactase,a0,1,3,729,6527,0
+1293,lactate,a0,136,1452,594,5078,0
+60,lactulose,a0,55,351,675,6179,0
+637,lamivudine,a0,3,17,727,6513,1
+1168,lamotrigine,a0,6,108,724,6422,2
+1194,lanolin,a0,1,105,729,6425,0
+1295,lansoprazole,a0,138,1473,592,5057,0
+398,lapatinib,a0,0,2,730,6528,0
+799,latanoprost,a0,4,29,726,6501,0
+123,l-carnitine,a0,2,3,728,6527,4
+122,l-carnitine product,a0,2,3,728,6527,4
+249,lecithin,a0,0,1,730,6529,0
+324,lecithin product,a0,0,1,730,6529,0
+326,lecithins,a0,0,1,730,6529,0
+788,leflunomide,a0,0,9,730,6521,0
+190,lenalidomide,a0,2,6,728,6524,3
+337,lente human insulin,a0,0,1,730,6529,0
+928,letrozole,a0,0,16,730,6514,0
+991,leucovorin,a0,8,70,722,6460,0
+661,leuprolide,a0,0,5,730,6525,0
+643,leuprorelin,a0,0,5,730,6525,0
+1072,levalbuterol,a0,4,68,726,6462,0
+1130,levetiracetam,a0,34,295,696,6235,0
+124,levocarnitine,a0,2,3,728,6527,4
+400,levocetirizine,a0,0,2,730,6528,1
+974,levodopa,a0,0,21,730,6509,0
+20,levofloxacin,a0,193,1414,537,5116,3
+739,levonorgestrel,a0,0,7,730,6523,0
+735,levonorgestrel preparation,a0,0,7,730,6523,0
+1267,levothyroxine,a0,55,643,675,5887,0
+587,l-glutamine,a0,0,4,730,6526,0
+1289,lidocaine,a0,342,3157,388,3373,1
+645,linaclotide,a0,0,5,730,6525,0
+89,linezolid,a0,17,84,713,6446,2
+846,linseed oil,a0,2,21,728,6509,0
+704,liothyronine,a0,0,6,730,6524,0
+1157,lipase,a0,10,129,720,6401,0
+1158,lipase preparation,a0,10,129,720,6401,0
+33,liposomal amphotericin b,a0,10,11,720,6519,5
+1180,liquid paraffin product,a0,5,112,725,6418,0
+125,liraglutide,a0,2,3,728,6527,2
+692,lisdexamfetamine,a0,0,6,730,6524,1
+1172,lisinopril,a0,131,1081,599,5449,2
+926,lispro insulin,a0,26,183,704,6347,1
+210,lithium (as citrate),a0,0,1,730,6529,1
+986,lithium carbonate,a0,4,45,726,6485,1
+284,lithium citrate,a0,0,1,730,6529,1
+1031,loperamide,a0,34,264,696,6266,0
+903,lopinavir,a0,0,14,730,6516,2
+1280,loratadine,a0,30,521,700,6009,0
+1282,lorazepam,a0,204,1964,526,4566,1
+1167,losartan,a0,17,184,713,6346,1
+744,loteprednol etabonate,a0,0,7,730,6523,0
+90,lovastatin,a0,5,13,725,6517,1
+615,loxapine,a0,0,4,730,6526,0
+1015,lubiprostone,a0,0,28,730,6502,0
+701,lurasidone,a0,0,6,730,6524,2
+348,lutein,a0,0,1,730,6529,0
+92,lymphocyte immune globulin,a0,6,18,724,6512,1
+91,lymphocyte immunoglobulin,a0,6,18,724,6512,1
+646,lysine,a0,0,5,730,6525,0
+1313,macrogol 3350,a0,146,1908,584,4622,0
+83,mafenide,a0,6,15,724,6515,1
+1122,magnesia,a0,54,446,676,6084,0
+1124,magnesium (as oxide),a0,54,446,676,6084,0
+30,magnesium (as sulfate),a0,258,1969,472,4561,1
+251,magnesium aspartate,a0,0,1,730,6529,0
+372,magnesium carbonate,a0,1,4,729,6526,0
+103,magnesium chloride,a0,55,362,675,6168,1
+1222,magnesium citrate,a0,36,398,694,6132,0
+107,magnesium glycinate,a0,1,0,729,6530,0
+1315,magnesium hydroxide,a0,298,3282,432,3248,0
+1123,magnesium oxide,a0,54,446,676,6084,0
+31,magnesium sulfate,a0,258,1969,472,4561,1
+1049,magnesium trisilicate,a0,8,85,722,6445,0
+955,mannitol,a0,36,260,694,6270,2
+448,maraviroc,a0,0,2,730,6528,2
+1065,meclizine,a0,3,59,727,6471,0
+544,mecobalamin,a0,0,3,730,6527,0
+978,medroxyprogesterone,a0,4,43,726,6487,0
+979,medroxyprogesterone preparation,a0,4,43,726,6487,0
+923,megestrol,a0,4,36,726,6494,0
+922,megestrol preparation,a0,4,36,726,6494,0
+1212,melatonin,a0,13,208,717,6322,0
+1213,melatonin preparation,a0,13,208,717,6322,0
+1109,meloxicam,a0,3,70,727,6460,2
+178,melphalan,a0,3,9,727,6521,1
+578,memantine,a0,1,7,729,6523,2
+382,menthol,a0,10,50,720,6480,0
+1184,meperidine,a0,51,461,679,6069,1
+98,mepivacaine,a0,2,2,728,6528,0
+163,mercaptopurine,a0,1,2,729,6528,1
+40,meropenem,a0,28,132,702,6398,3
+1017,mesalamine,a0,4,51,726,6479,2
+1018,mesalazine,a0,4,51,726,6479,2
+50,mesna,a0,15,55,715,6475,1
+830,metaxalone,a0,0,11,730,6519,0
+1224,metformin,a0,50,509,680,6021,1
+1069,methadone,a0,5,72,725,6458,1
+652,methenamine,a0,0,5,730,6525,1
+625,methimazole,a0,2,12,728,6518,0
+1174,methocarbamol,a0,5,109,725,6421,1
+461,methohexital,a0,0,2,730,6528,0
+869,methotrexate,a0,17,115,713,6415,2
+777,methscopolamine,a0,0,8,730,6522,0
+383,methyl salicylate,a0,6,27,724,6503,0
+695,methylcellulose,a0,0,6,730,6524,0
+552,methylcobalamin,a0,0,3,730,6527,0
+504,methyldopa,a0,0,3,730,6527,1
+908,methylene blue,a0,2,24,728,6506,0
+910,methylene blue product,a0,2,24,728,6506,0
+907,methylene blue stain,a0,2,24,728,6506,0
+687,methylergonovine,a0,0,6,730,6524,0
+690,methylergonovine preparation,a0,0,6,730,6524,0
+969,methylnaltrexone,a0,11,86,719,6444,1
+1039,methylphenidate,a0,8,82,722,6448,0
+68,methylprednisolone,a0,73,492,657,6038,1
+69,methylprednisolone preparation,a0,73,492,657,6038,1
+730,methyltestosterone,a0,0,7,730,6523,0
+732,methyltestosterone preparation,a0,0,7,730,6523,0
+1287,metoclopramide,a0,107,1178,623,5352,1
+46,metolazone,a0,10,22,720,6508,4
+13,metoprolol,a0,179,1274,551,5256,0
+548,metoprolol succinate,a0,0,3,730,6527,0
+1214,metronidazole,a0,58,551,672,5979,0
+662,mexiletine,a0,0,5,730,6525,0
+14,micafungin,a0,21,50,709,6480,5
+935,miconazole,a0,0,17,730,6513,0
+1281,midazolam,a0,275,2558,455,3972,0
+1044,midodrine,a0,1,40,729,6490,1
+568,milk thistle,a0,2,11,728,6519,0
+642,milnacipran,a0,0,5,730,6525,2
+58,milrinone,a0,10,30,720,6500,1
+1181,mineral oil,a0,5,112,725,6418,0
+802,minocycline,a0,1,14,729,6516,2
+142,minoxidil,a0,1,1,729,6529,0
+1176,mirtazapine,a0,14,172,716,6358,0
+1133,misoprostol,a0,5,90,725,6440,0
+616,mitoxantrone,a0,0,4,730,6526,3
+988,modafinil,a0,5,51,725,6479,0
+909,mometasone,a0,2,24,728,6506,0
+834,monobasic sodium phosphate,a0,0,11,730,6519,2
+1186,montelukast,a0,12,169,718,6361,0
+1185,montelukast product,a0,12,169,718,6361,0
+1263,morphine,a0,286,2542,444,3988,1
+73,moxifloxacin,a0,6,13,724,6517,4
+72,moxifloxacin product,a0,6,13,724,6517,4
+1116,mupirocin,a0,6,91,724,6439,0
+39,mycophenolate mofetil,a0,27,124,703,6406,4
+897,mycophenolic acid,a0,8,58,722,6472,2
+921,nabumetone,a0,1,20,729,6510,2
+184,nadolol,a0,7,30,723,6500,1
+797,nafcillin,a0,6,40,724,6490,0
+1199,naloxone,a0,157,1338,573,5192,0
+794,naltrexone,a0,0,9,730,6521,0
+603,naphazoline,a0,0,4,730,6526,0
+1228,naproxen,a0,17,262,713,6268,2
+508,nateglinide,a0,0,3,730,6527,0
+976,nebivolol,a0,4,43,726,6487,2
+112,nefazodone,a0,1,0,729,6530,0
+453,nelfinavir,a0,0,2,730,6528,0
+1068,neomycin,a0,8,91,722,6439,2
+1310,neostigmine,a0,54,986,676,5544,1
+290,nepafenac,a0,0,1,730,6529,0
+378,nevirapine,a0,1,4,729,6526,0
+1037,niacin,a0,10,95,720,6435,0
+449,niacin (as niacinamide),a0,0,2,730,6528,0
+1036,niacin preparation,a0,10,95,720,6435,0
+407,niacinamide,a0,0,2,730,6528,0
+457,niacinamide preparation,a0,0,2,730,6528,0
+1169,nicardipine,a0,31,288,699,6242,0
+1296,nicotine,a0,40,687,690,5843,0
+1297,nicotine agent,a0,40,687,690,5843,0
+1038,nicotinic acid,a0,10,95,720,6435,0
+961,nifedipine,a0,3,35,727,6495,0
+734,nimodipine,a0,0,7,730,6523,0
+439,nitazoxanide,a0,0,2,730,6528,0
+1100,nitrofurantoin,a0,9,109,721,6421,1
+8,nitroglycerin,a0,134,781,596,5749,0
+77,nitroprusside,a0,9,30,721,6500,1
+766,n-methylscopolamine,a0,0,8,730,6522,0
+295,norelgestromin,a0,0,1,730,6529,0
+10,norepinephrine,a0,80,402,650,6128,0
+9,norepinephrine preparation,a0,80,402,650,6128,0
+878,norethindrone,a0,0,13,730,6517,0
+880,norethindrone preparation,a0,0,13,730,6517,0
+108,norfloxacin,a0,1,0,729,6530,2
+877,nortriptyline,a0,9,63,721,6467,0
+19,nystatin,a0,63,364,667,6166,0
+940,octreotide,a0,11,82,719,6448,2
+939,octreotide preparation,a0,11,82,719,6448,2
+373,ofloxacin,a0,1,4,729,6526,2
+1110,olanzapine,a0,9,110,721,6420,0
+807,olmesartan,a0,3,24,727,6506,2
+719,olopatadine,a0,2,15,728,6515,0
+509,omalizumab,a0,0,3,730,6527,0
+712,omega-3 acid ethyl ester,a0,1,10,729,6520,0
+1197,omeprazole,a0,24,274,706,6256,0
+630,onabotulinumtoxina,a0,1,8,729,6522,0
+1299,ondansetron,a0,508,4675,222,1855,0
+18,ophthalmic form aciclovir,a0,80,494,650,6036,3
+79,opium,a0,9,30,721,6500,2
+78,opium preparation,a0,9,30,721,6500,2
+600,orphenadrine,a0,0,4,730,6526,0
+957,oseltamivir,a0,2,29,728,6501,0
+297,oxacillin,a0,0,1,730,6529,0
+491,oxaliplatin,a0,1,6,729,6524,2
+189,oxandrolone,a0,2,6,728,6524,0
+187,oxandrolone preparation,a0,2,6,728,6524,0
+132,oxazepam,a0,1,1,729,6529,0
+927,oxcarbazepine,a0,3,31,727,6499,1
+1163,oxybutynin,a0,17,181,713,6349,0
+590,oxychlorosene,a0,0,4,730,6526,0
+1316,oxycodone,a0,356,3872,374,2658,1
+1034,oxymetazoline,a0,8,81,722,6449,0
+673,oxymorphone,a0,1,9,729,6521,1
+677,oxymorphone product,a0,1,9,729,6521,1
+1177,oxytocin,a0,6,117,724,6413,0
+1178,oxytocin preparation,a0,6,117,724,6413,0
+826,paclitaxel,a0,1,15,729,6515,0
+702,paliperidone,a0,0,6,730,6524,1
+299,palivizumab,a0,0,1,730,6529,0
+476,palonosetron,a0,1,5,729,6525,0
+279,pamabrom,a0,0,1,730,6529,0
+823,pamidronate,a0,1,15,729,6515,2
+825,pamidronic acid,a0,1,15,729,6515,2
+44,pancuronium,a0,11,26,719,6504,1
+1292,pantoprazole,a0,153,1592,577,4938,0
+238,papain,a0,0,1,730,6529,0
+27,papaverine,a0,28,117,702,6413,0
+1182,paraffin liquid,a0,5,112,725,6418,0
+575,paraffin-white soft,a0,1,7,729,6523,0
+460,paromomycin,a0,0,2,730,6528,0
+1050,paroxetine,a0,13,119,717,6411,2
+169,pazopanib,a0,1,2,729,6528,0
+450,pectin,a0,0,2,730,6528,0
+1314,peg-3350,a0,146,1908,584,4622,1
+170,peg-400,a0,1,2,729,6528,0
+71,pegaspargase,a0,3,2,727,6528,2
+588,pegfilgrastim,a0,0,4,730,6526,0
+204,peginterferon alfa-2a,a0,1,3,729,6527,1
+194,peginterferon alpha-2a,a0,1,3,729,6527,1
+351,penicillamine,a0,0,1,730,6529,2
+374,penicillin g,a0,1,4,729,6526,2
+1025,penicillin g potassium,a0,2,41,728,6489,2
+370,penicillin g sodium,a0,1,4,729,6526,2
+857,penicillin v,a0,0,12,730,6518,0
+43,pentamidine,a0,8,10,722,6520,5
+573,pentosan polysulfate,a0,1,7,729,6523,0
+904,pentoxifylline,a0,0,14,730,6516,1
+563,peppermint oil,a0,8,42,722,6488,0
+592,permethrin,a0,0,4,730,6526,0
+425,permixon,a0,0,2,730,6528,0
+648,perphenazine,a0,0,5,730,6525,0
+1056,pertussis vaccine acellular,a0,4,62,726,6468,0
+431,pertuzumab,a0,0,2,730,6528,0
+520,peruvian balsam,a0,0,3,730,6527,0
+656,petrolatum,a0,0,5,730,6525,0
+572,petrolatum  white,a0,1,7,729,6523,0
+579,petrolatum white,a0,1,7,729,6523,0
+818,phenazopyridine,a0,6,41,724,6489,2
+817,phenazopyridine product,a0,6,41,724,6489,2
+225,phenelzine,a0,0,1,730,6529,1
+594,pheniramine,a0,0,4,730,6526,0
+970,phenobarbital,a0,2,31,728,6499,1
+1238,phenol,a0,31,390,699,6140,0
+1237,phenol product,a0,31,390,699,6140,0
+611,phenoxybenzamine,a0,0,4,730,6526,0
+851,phenoxymethylpenicillin,a0,0,12,730,6518,0
+651,phentermine,a0,0,5,730,6525,0
+303,phentolamine,a0,0,1,730,6529,0
+314,phenyl salicylate,a0,0,1,730,6529,0
+1230,phenylephrine,a0,141,1251,589,5279,0
+1095,phenytoin,a0,9,108,721,6422,1
+849,phytonadione,a0,24,163,706,6367,0
+848,phytonadione preparation,a0,24,163,706,6367,0
+775,pilocarpine,a0,0,8,730,6522,0
+470,pimecrolimus,a0,0,2,730,6528,0
+881,pioglitazone,a0,5,39,725,6491,0
+2,piperacillin,a0,185,880,545,5650,3
+466,piperazine estrone sulfate,a0,0,2,730,6528,0
+524,pirbuterol,a0,0,3,730,6527,0
+200,piroxicam,a0,1,3,729,6527,2
+305,pitavastatin,a0,0,1,730,6529,2
+956,poloxamer,a0,3,34,727,6496,0
+158,polycarbophil,a0,2,4,728,6526,0
+151,polycarbophil calcium,a0,2,4,728,6526,0
+1312,polyethylene glycol 3350,a0,146,1908,584,4622,1
+171,polyethylene glycol 400,a0,1,2,729,6528,1
+1043,polymyxin b,a0,10,96,720,6434,1
+856,polysaccharide-iron complex,a0,0,12,730,6518,0
+838,polyvinyl alcohol,a0,0,11,730,6519,0
+829,polyvinyl alcohol product,a0,0,11,730,6519,0
+429,pomalidomide,a0,0,2,730,6528,5
+218,ponatinib,a0,0,1,730,6529,0
+1190,porcine heparin,a0,176,1475,554,5055,0
+487,posaconazole,a0,8,41,722,6489,3
+1118,potassium,a0,23,211,707,6319,1
+1307,potassium (as chloride),a0,466,4419,264,2111,1
+640,potassium (as phosphate),a0,37,245,693,6285,1
+322,potassium bicarbonate,a0,0,1,730,6529,0
+1306,potassium chloride,a0,466,4419,264,2111,1
+837,potassium citrate,a0,0,11,730,6519,0
+668,potassium gluconate,a0,2,13,728,6517,0
+230,potassium iodide,a0,0,1,730,6529,0
+639,potassium phosphate,a0,37,245,693,6285,1
+1117,potassium product,a0,23,211,707,6319,0
+792,povidone,a0,0,9,730,6521,0
+1002,pramipexole,a0,1,31,729,6499,1
+106,pramlintide,a0,1,0,729,6530,0
+736,pramoxine,a0,0,7,730,6523,0
+918,prasugrel,a0,2,25,728,6505,0
+1083,pravastatin,a0,13,132,717,6398,1
+938,prazosin,a0,2,27,728,6503,0
+1030,prednisolone,a0,10,93,720,6437,0
+1029,prednisolone preparation,a0,10,93,720,6437,0
+1207,prednisone,a0,60,564,670,5966,0
+1208,prednisone preparation,a0,60,564,670,5966,0
+1132,pregabalin,a0,19,186,711,6344,1
+868,prilocaine,a0,3,27,727,6503,0
+633,primidone,a0,1,8,729,6522,1
+589,probenecid,a0,0,4,730,6526,2
+387,procainamide,a0,0,2,730,6528,1
+1255,prochlorperazine,a0,149,1366,581,5164,0
+768,progesterone,a0,0,8,730,6522,0
+776,progesterone preparation,a0,0,8,730,6522,0
+1304,promethazine,a0,99,1294,631,5236,0
+499,propafenone,a0,1,6,729,6524,1
+216,propan-2-ol,a0,0,1,730,6529,0
+1301,propofol,a0,173,1886,557,4644,2
+900,propoxyphene,a0,0,14,730,6516,0
+1023,propranolol,a0,19,152,711,6378,1
+162,propylene glycol,a0,1,2,729,6528,0
+447,propylthiouracil,a0,0,2,730,6528,2
+793,protamine,a0,0,9,730,6521,0
+840,protamine sulfate,a0,49,347,681,6183,0
+790,protamines,a0,0,9,730,6521,0
+1159,protease,a0,10,129,720,6401,0
+1154,protease preparation,a0,10,129,720,6401,0
+344,protriptyline,a0,0,1,730,6529,0
+1129,pseudoephedrine,a0,11,127,719,6403,0
+752,psyllium,a0,1,11,729,6519,0
+501,purified protein derivative of tuberculin,a0,1,6,729,6524,0
+595,pyrazinamide,a0,0,4,730,6526,1
+891,pyridostigmine,a0,2,23,728,6507,0
+406,pyridoxine,a0,0,2,730,6528,0
+417,pyridoxine preparation,a0,0,2,730,6528,0
+506,pyrilamine,a0,0,3,730,6527,0
+401,pyrimethamine,a0,0,2,730,6528,0
+1232,quetiapine,a0,9,213,721,6317,2
+686,quinapril,a0,0,6,730,6524,2
+332,quinidine,a0,0,1,730,6529,0
+256,quinidine sulfate,a0,0,1,730,6529,0
+542,quinine,a0,0,3,730,6527,2
+631,rabeprazole,a0,1,8,729,6522,0
+1218,racemethionine,a0,20,262,710,6268,0
+866,racepinephrine,a0,3,27,727,6503,0
+612,raloxifene,a0,0,4,730,6526,0
+753,raltegravir,a0,1,11,729,6519,2
+175,ramelteon,a0,1,2,729,6528,0
+993,ramipril,a0,2,34,728,6496,2
+1131,ranitidine,a0,9,115,721,6415,1
+691,ranolazine,a0,0,6,730,6524,2
+318,rasagiline,a0,0,1,730,6529,1
+371,rasburicase,a0,1,4,729,6526,1
+376,recombinant urate oxidase,a0,1,4,729,6526,0
+414,red yeast rice,a0,0,2,730,6528,0
+1033,regadenoson,a0,6,68,724,6462,0
+1121,remifentanil,a0,2,67,728,6463,0
+196,repaglinide,a0,1,3,729,6527,1
+861,ribavirin,a0,4,32,726,6498,1
+586,riboflavin,a0,5,26,725,6504,0
+584,riboflavin preparation,a0,5,26,725,6504,0
+606,rifabutin,a0,0,4,730,6526,1
+362,rifampicin,a0,3,11,727,6519,2
+360,rifampin,a0,3,11,727,6519,2
+253,rifapentine,a0,0,1,730,6529,0
+930,rifaximin,a0,21,149,709,6381,0
+271,rilpivirine,a0,0,1,730,6529,0
+104,riluzole,a0,1,0,729,6530,0
+260,rimantadine,a0,0,1,730,6529,1
+193,risedronate,a0,2,6,728,6524,1
+1019,risperidone,a0,26,201,704,6329,1
+987,ritonavir,a0,4,45,726,6485,0
+983,rituximab,a0,4,44,726,6486,2
+1021,rivaroxaban,a0,6,64,724,6466,1
+336,rivastigmine,a0,0,1,730,6529,0
+727,rizatriptan,a0,3,20,727,6510,0
+1302,rocuronium,a0,63,984,667,5546,0
+252,roflumilast,a0,0,1,730,6529,2
+864,ropinirole,a0,5,38,725,6492,0
+1183,ropivacaine,a0,10,148,720,6382,0
+772,rosiglitazone,a0,0,8,730,6522,0
+87,rosuvastatin,a0,27,151,703,6379,2
+237,rotigotine,a0,0,1,730,6529,0
+784,salcatonin,a0,1,13,729,6517,0
+76,salicylic acid,a0,5,9,725,6521,2
+229,salicylsalicylic acid,a0,0,1,730,6529,2
+1219,salmeterol,a0,33,363,697,6167,0
+786,salmon calcitonin,a0,1,13,729,6517,0
+241,salol,a0,0,1,730,6529,0
+340,salsalate,a0,0,1,730,6529,2
+423,saquinavir,a0,0,2,730,6528,0
+441,saw palmetto,a0,0,2,730,6528,0
+445,saw palmetto extract,a0,0,2,730,6528,0
+463,saxagliptin,a0,0,2,730,6528,1
+286,schizandra,a0,0,1,730,6529,0
+1198,scopolamine,a0,21,255,709,6275,0
+208,selegiline,a0,0,1,730,6529,1
+698,selenium disulfide,a0,0,6,730,6524,0
+697,selenium sulfide,a0,0,6,730,6524,0
+1318,senna,a0,283,3264,447,3266,0
+1322,senna preparation,a0,283,3264,447,3266,0
+1320,sennoside,a0,283,3264,447,3266,0
+1321,sennoside a&b,a0,283,3264,447,3266,0
+1319,sennosides,a0,283,3264,447,3266,0
+1171,sertraline,a0,37,334,693,6196,2
+289,sevelamer,a0,0,1,730,6529,0
+1294,sevoflurane,a0,58,818,672,5712,0
+943,sildenafil,a0,2,28,728,6502,1
+267,silodosin,a0,0,1,730,6529,1
+982,silver sulfadiazine,a0,4,44,726,6486,0
+570,silybum marianum extract,a0,2,11,728,6519,0
+1283,simethicone,a0,175,1725,555,4805,0
+1253,simvastatin,a0,66,679,664,5851,2
+954,sincalide,a0,1,23,729,6507,0
+953,sincalide preparation,a0,1,23,729,6507,0
+486,sirolimus,a0,2,9,728,6521,0
+814,sitagliptin,a0,9,59,721,6471,2
+350,slippery elm bark,a0,0,1,730,6529,0
+717,sodium acetate,a0,49,339,681,6191,0
+833,sodium acid phosphate,a0,0,11,730,6519,0
+392,sodium ascorbate,a0,0,2,730,6528,0
+444,sodium ascorbate preparation,a0,0,2,730,6528,0
+623,sodium bicarbonate,a0,114,846,616,5684,1
+832,sodium biphosphate,a0,0,11,730,6519,0
+1300,sodium chloride,a0,603,5540,127,990,0
+1048,sodium citrate,a0,6,72,724,6458,0
+493,sodium ferric gluconate complex,a0,1,6,729,6524,0
+806,sodium fluoride,a0,3,24,727,6506,0
+805,sodium fluoride product,a0,3,24,727,6506,0
+759,sodium gluconate,a0,48,333,682,6197,0
+67,sodium hypochlorite,a0,5,8,725,6522,0
+451,sodium monofluorophosphate,a0,0,2,730,6528,0
+51,sodium phosphate,a0,88,599,642,5931,2
+789,sodium phosphate dibasic,a0,0,9,730,6521,2
+836,sodium phosphate monobasic,a0,0,11,730,6519,2
+798,sodium polystyrene sulfonate,a0,8,52,722,6478,0
+173,sodium sulfate,a0,1,2,729,6528,0
+250,sodium tetradecyl sulfate,a0,0,1,730,6529,0
+765,solifenacin,a0,0,8,730,6522,2
+246,somatropin,a0,0,1,730,6529,0
+404,sorafenib,a0,0,2,730,6528,2
+129,sotalol,a0,9,38,721,6492,1
+11,spironolactone,a0,65,349,665,6181,3
+341,stannous fluoride,a0,0,1,730,6529,0
+232,stannous fluoride product,a0,0,1,730,6529,0
+434,stavudine,a0,0,2,730,6528,1
+415,stavudine (d4t),a0,0,2,730,6528,1
+1254,succinylcholine,a0,68,708,662,5822,1
+1188,sucralfate,a0,5,121,725,6409,0
+301,sucrose,a0,0,1,730,6529,0
+206,sucrose preparation,a0,0,1,730,6529,0
+422,sufentanil,a0,0,2,730,6528,0
+418,sufentanil product,a0,0,2,730,6528,0
+37,sulbactam,a0,25,110,705,6420,3
+357,sulfacetamide,a0,0,1,730,6529,0
+265,sulfadiazine,a0,0,1,730,6529,1
+288,sulfadiazine product,a0,0,1,730,6529,1
+1075,sulfamethoxazole,a0,53,426,677,6104,0
+879,sulfasalazine,a0,0,13,730,6517,2
+275,sulfisoxazole,a0,0,1,730,6529,0
+545,sulindac,a0,0,3,730,6527,2
+1092,sumatriptan,a0,4,74,726,6456,0
+1091,sumatriptan product,a0,4,74,726,6456,0
+492,sunitinib,a0,1,6,729,6524,2
+32,tacrolimus,a0,40,209,690,6321,4
+936,tadalafil,a0,0,17,730,6513,1
+607,talc,a0,0,4,730,6526,0
+783,tamoxifen,a0,1,13,729,6517,0
+1125,tamsulosin,a0,29,256,701,6274,0
+277,tapentadol,a0,0,1,730,6529,1
+321,tazarotene,a0,0,1,730,6529,0
+3,tazobactam,a0,185,880,545,5650,3
+146,telaprevir,a0,1,1,729,6529,1
+733,telmisartan,a0,0,7,730,6523,2
+29,temazepam,a0,76,480,654,6050,1
+711,temozolomide,a0,1,10,729,6520,0
+941,tenofovir disoproxil,a0,4,39,726,6491,2
+937,terazosin,a0,2,27,728,6503,0
+596,terbinafine,a0,0,4,730,6526,1
+902,terbutaline,a0,0,14,730,6516,0
+287,terconazole,a0,0,1,730,6529,0
+84,teriparatide,a0,2,2,728,6528,1
+995,testosterone,a0,3,40,727,6490,0
+996,testosterone preparation,a0,3,40,727,6490,0
+328,tetanus immune globulin,a0,0,1,730,6529,0
+342,tetanus immune globulin  human,a0,0,1,730,6529,0
+353,tetanus immune globulin human,a0,0,1,730,6529,0
+248,tetanus immunoglobulin,a0,0,1,730,6529,0
+1115,tetanus toxoid,a0,13,138,717,6392,0
+1114,tetanus toxoid adsorbed,a0,13,138,717,6392,0
+990,tetracaine,a0,23,172,707,6358,0
+1080,tetracosactide,a0,8,98,722,6432,0
+1027,tetrahydrocannabinol,a0,6,67,724,6463,0
+1268,tetraiodothyronine preparation,a0,55,643,675,5887,0
+213,theanine,a0,0,1,730,6529,0
+985,theophylline,a0,5,50,725,6480,0
+1264,thiamine,a0,39,514,691,6016,0
+1266,thiamine preparation,a0,39,514,691,6016,0
+116,thiopental,a0,1,0,729,6530,1
+118,thiopentone,a0,1,0,729,6530,1
+517,thiothixene,a0,0,3,730,6527,0
+915,thyroid,a0,0,15,730,6515,0
+916,thyroid (usp),a0,0,15,730,6515,0
+1269,thyroxine,a0,55,643,675,5887,0
+513,tiagabine,a0,0,3,730,6527,1
+199,ticagrelor,a0,1,3,729,6527,2
+302,ticlopidine,a0,0,1,730,6529,0
+361,tigecycline,a0,3,11,727,6519,0
+705,timolol,a0,4,24,726,6506,0
+239,tin difluoride,a0,0,1,730,6529,0
+220,tinidazole,a0,0,1,730,6529,0
+1054,tiotropium,a0,13,121,717,6409,0
+64,tissue plasminogen activator,a0,90,625,640,5905,1
+61,tissue plasminogen activator preparation,a0,90,625,640,5905,1
+1093,tizanidine,a0,8,101,722,6429,1
+1108,tobramycin,a0,10,116,720,6414,2
+258,tofacitinib,a0,0,1,730,6529,1
+177,tolterodine,a0,3,9,727,6521,1
+140,tolvaptan,a0,1,1,729,6529,2
+1113,topiramate,a0,11,124,719,6406,1
+742,torsemide,a0,0,7,730,6523,0
+1239,tramadol,a0,38,444,692,6086,1
+1078,tranexamic acid,a0,16,152,714,6378,1
+628,trastuzumab,a0,1,8,729,6522,2
+473,travoprost,a0,1,5,729,6525,0
+1201,trazodone,a0,67,611,663,5919,0
+801,treprostinil,a0,1,14,729,6516,0
+574,tretinoin,a0,1,7,729,6523,4
+1151,triacylglycerol lipase,a0,10,129,720,6401,0
+1162,triamcinolone,a0,6,102,724,6428,0
+455,triamcinolone acetonide,a0,0,2,730,6528,0
+1161,triamcinolone preparation,a0,6,102,724,6428,0
+1006,triamterene,a0,4,49,726,6481,2
+618,triazolam,a0,0,4,730,6526,0
+424,trichophyton,a0,0,2,730,6528,0
+452,tricophyton,a0,0,2,730,6528,0
+149,trientine,a0,1,1,729,6529,0
+580,trihexyphenidyl,a0,1,7,729,6523,0
+694,triiodothyronine,a0,0,6,730,6524,0
+764,trimethobenzamide,a0,0,8,730,6522,1
+1060,trimethoprim,a0,55,435,675,6095,1
+264,triprolidine,a0,0,1,730,6529,0
+307,triptorelin,a0,0,1,730,6529,0
+278,tropicamide,a0,0,1,730,6529,0
+139,trospium,a0,1,1,729,6529,1
+549,trypsin,a0,0,3,730,6527,0
+490,tuberculin purified protein derivative,a0,1,6,729,6524,0
+500,tuberculin purified protein derivative,a0,1,6,729,6524,0
+240,turmeric,a0,0,1,730,6529,0
+266,turmeric extract,a0,0,1,730,6529,0
+65,unfractionated heparin,a0,99,697,631,5833,2
+381,urea,a0,1,4,729,6526,0
+1086,valaciclovir (valacyclovir),a0,2,60,728,6470,2
+1087,valacyclovir,a0,2,60,728,6470,2
+1085,valacyclovir product,a0,2,60,728,6470,2
+822,valganciclovir,a0,10,66,720,6464,3
+1191,valproate,a0,13,181,717,6349,0
+1098,valproic acid,a0,4,76,726,6454,0
+984,valsartan,a0,14,108,716,6422,3
+1,vancomycin,a0,262,1372,468,5158,4
+168,vardenafil,a0,1,2,729,6528,0
+718,varenicline,a0,6,36,724,6494,2
+25,vasopressin,a0,14,24,716,6506,5
+23,vasopressin (usp),a0,14,24,716,6506,5
+26,vasopressin preparation,a0,14,24,716,6506,5
+1226,vecuronium,a0,49,503,681,6027,0
+435,vemurafenib,a0,0,2,730,6528,1
+1200,venlafaxine,a0,11,183,719,6347,1
+796,verapamil,a0,10,64,720,6466,0
+950,viatmin a,a0,6,51,724,6479,0
+496,vilazodone,a0,1,6,729,6524,0
+154,vinblastine,a0,2,4,728,6526,0
+384,vincristine,a0,5,22,725,6508,0
+528,vinorelbine,a0,0,3,730,6527,0
+949,vitamin a,a0,6,51,724,6479,0
+951,vitamin a preparation,a0,6,51,724,6479,0
+1066,vitamin b,a0,11,111,719,6419,0
+1143,vitamin b 12,a0,22,211,708,6319,0
+1011,vitamin b 6,a0,11,95,719,6435,0
+1067,vitamin b group product,a0,11,111,719,6419,0
+1144,vitamin b>12< preparation,a0,22,211,708,6319,0
+282,vitamin b>12a<,a0,0,1,730,6529,0
+1265,vitamin b1,a0,39,514,691,6016,0
+585,vitamin b2,a0,5,26,725,6504,0
+436,vitamin b3,a0,0,2,730,6528,0
+1010,vitamin b6,a0,11,95,719,6435,0
+1250,vitamin c,a0,32,407,698,6123,0
+1252,vitamin c preparation,a0,32,407,698,6123,0
+153,vitamin d,a0,2,4,728,6526,0
+157,vitamin d preparation,a0,2,4,728,6526,0
+1243,vitamin d>2<,a0,32,402,698,6128,0
+1004,vitamin e,a0,15,120,715,6410,0
+1005,vitamin e preparation,a0,15,120,715,6410,0
+850,vitamin k 1,a0,24,163,706,6367,0
+70,voriconazole,a0,13,52,717,6478,3
+1257,warfarin,a0,39,503,691,6027,0
+1204,water,a0,54,514,676,6016,0
+1203,water product,a0,54,514,676,6016,0
+576,white petrolatum,a0,1,7,729,6523,0
+722,xenon,a0,4,25,726,6505,0
+330,zafirlukast,a0,0,1,730,6529,0
+720,zidovudine,a0,2,15,728,6515,1
+274,zileuton,a0,0,1,730,6529,0
+945,zinc (as oxide),a0,2,28,728,6502,0
+1111,zinc (as sulfate),a0,19,180,711,6350,0
+110,zinc acetate,a0,1,0,729,6530,0
+946,zinc oxide,a0,2,28,728,6502,0
+1112,zinc sulfate,a0,19,180,711,6350,0
+778,ziprasidone,a0,4,27,726,6503,0
+556,zoledronic acid,a0,2,10,728,6520,3
+477,zolmitriptan,a0,1,5,729,6525,0
+1288,zolpidem,a0,107,1180,623,5350,2
+498,zonisamide,a0,1,6,729,6524,2
