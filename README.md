@@ -97,11 +97,33 @@ get_corrected_contingency_table_dict(
 )
 ```
 
+**Parameters:**
+- contingency_table_dict: A dictionary with the format {'n11': ##, 'n10': ##, 'n01': ##, 'n00': ##}
+- target_p_value: The user-defined significance level (e.g., 0.01)
+- delta: Controls the stopping criterion based on accuracy; by default, computation stops at the 4th decimal place
+- whether_speed_up_screen: If True, applies Algorithm 4 from the paper; if False, applies Algorithm 3
 
-The most critical funtion to use is get_corrected_contingency_table_dict(contingency_table_dict, target_p_value, delta=0.0001, whether_speed_up_screen=True) under the folder api.analytics.descriptive.correlation.contingency_table_correction. The contingency_table_dict needs the dict format like {'n11': ##, 'n10': ##, 'n01': ##, 'n11': ##}, target_p_value is the user-specified significance level, delta specifies the accuracy in decimal place and we stop in the 4th decimal place by default, and whether_speed_up_screen control whether impliment Algorithm 4 in the paper when whether_speed_up_screen=True or impliment Algorithm 3 in the paper when whether_speed_up_screen=False.
+This function adjusts the observed contingency table to produce the ECC-corrected contingency table.
 
-The get_corrected_contingency_table_dict() will adjust the observed contingency table into the ECC corrected contingency table. With the ECC corrected contingency table, users can apply any existing MLE version of correlation function to find its ECC related value. For example, given the observed contingency table coded as {'n11': 100, 'n10': 100, 'n01': 200, 'n00': 600}, get_corrected_contingency_table_dict({'n11': 100, 'n10': 100, 'n01': 200, 'n00': 600}, 0.01, delta=0.0001, whether_speed_up_screen=True) will generate the ECC corrected contingency table coded as {'n11': 77.33688354492189, 'n10': 122.66311645507811, 'n01': 222.66311645507812, 'n00': 577.3368835449219} under the significance level 0.01 with the accuracy in the 4th decimal place. Take Odds Ratio = n11*n00/(n10*n01) for example, the ECC version of Odds Ratio = (77.33688354492189*577.3368835449219)/(122.66311645507811*222.66311645507812) = 1.634758834767347.
+## Example
 
+Given the input {'n11': 100, 'n10': 100, 'n01': 200, 'n00': 600},
+
+Call:
+```python
+get_corrected_contingency_table_dict(
+    {'n11': 100, 'n10': 100, 'n01': 200, 'n00': 600},
+    0.01,
+    delta=0.0001,
+    whether_speed_up_screen=True
+)
+```
+
+This will return {'n11': 77.3369, 'n10': 122.6631, 'n01': 222.6631, 'n00': 577.3369}
+
+## Usage with Correlation Functions
+
+You can apply any MLE-based correlation measure (e.g., Odds Ratio) using the corrected values. For example: Odds Ratio (ECC version) is computed as: (77.3369 × 577.3369) / (122.6631 × 222.6631) ≈ 1.6348
 
 
 ## Ongoing Development
