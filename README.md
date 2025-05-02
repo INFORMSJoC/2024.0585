@@ -42,7 +42,11 @@ Below is the BibTex for citing this snapshot of the repository.
 
 The goal of this software is to search for highly correlated pairs by their generated contingency table from their transaction type of raw data.
 
-## Building
+The code is tested on the Python 3.8 and above. To replicate our result, put all the files and folders under the "src" folder into your project root folder. In addition, put the data folder also under your project root folder. Your root project folder should have "api" and "data" folder, and three python files.
+
+run "python evaluation_real_data_rdcg.py" will generate the rdcg score for each method under different significance levels for real datasets.
+run "python evaluation_simulated_data_rdcg.py" will generate the rdcg score for each method under different significance levels for our simulated data.
+run "python evaluation_simulated_data_speed.py" will generate the rdcg score for each method under different significance levels for our simulated data.
 
 
 
