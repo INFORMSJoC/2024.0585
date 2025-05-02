@@ -65,16 +65,19 @@ Your project root should contain:
 Computes the **RDCG score** under various significance levels for real datasets:
 ```bash
 python evaluation_real_data_rdcg.py
+```
 
 ### Simulated Data Evaluation
 Computes the **RDCG score** for each method under varying significance levels using simulated data:
 ```bash
 python evaluation_simulated_data_rdcg.py
+```
 
 ### Speed Test
 Tests runtime performance of different search methods on simulated data:
 ```bash
 python evaluation_simulated_data_speed.py
+```
 
 ## Core Function
 
@@ -92,6 +95,7 @@ get_corrected_contingency_table_dict(
     delta=0.0001,
     whether_speed_up_screen=True
 )
+```
 
 
 The most critical funtion to use is get_corrected_contingency_table_dict(contingency_table_dict, target_p_value, delta=0.0001, whether_speed_up_screen=True) under the folder api.analytics.descriptive.correlation.contingency_table_correction. The contingency_table_dict needs the dict format like {'n11': ##, 'n10': ##, 'n01': ##, 'n11': ##}, target_p_value is the user-specified significance level, delta specifies the accuracy in decimal place and we stop in the 4th decimal place by default, and whether_speed_up_screen control whether impliment Algorithm 4 in the paper when whether_speed_up_screen=True or impliment Algorithm 3 in the paper when whether_speed_up_screen=False.
