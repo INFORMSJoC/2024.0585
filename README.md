@@ -48,7 +48,11 @@ run "python evaluation_real_data_rdcg.py" will generate the rdcg score for each 
 
 run "python evaluation_simulated_data_rdcg.py" will generate the rdcg score for each method under different significance levels for our simulated data.
 
-run "python evaluation_simulated_data_speed.py" will generate the rdcg score for each method under different significance levels for our simulated data.
+run "python evaluation_simulated_data_speed.py" will test the run time for different search methods in our simulated data.
+
+The most critical funtion to use is get_corrected_contingency_table_dict(contingency_table_dict, target_p_value, delta=0.0001, whether_speed_up_screen=True) under the folder api.analytics.descriptive.correlation.contingency_table_correction. The contingency_table_dict needs the dict format like {'n11': ##, 'n10': ##, 'n01': ##, 'n11': ##}, target_p_value is the user-specified significance level, delta specifies the accuracy in decimal place and we stop in the 4th decimal place by default, and whether_speed_up_screen control whether impliment Algorithm 4 in the paper when whether_speed_up_screen=True or impliment Algorithm 3 in the paper when whether_speed_up_screen=False.
+
+The get_corrected_contingency_table_dict() will adjust the observed contingency table into the ECC corrected contingency table. With the ECC corrected contingency table, users can apply any existing MLE version of correlation function to find its ECC related value. For example, given the observed contingency table coded as {'n11': 100, 'n10': 100, 'n01': 200, 'n00': 600}, get_corrected_contingency_table_dict({'n11': 100, 'n10': 100, 'n01': 200, 'n00': 600}, 0.01, delta=0.0001, whether_speed_up_screen=True) will generate the ECC corrected contingency table coded as {'n11': 77.33688354492189, 'n10': 122.66311645507811, 'n01': 222.66311645507812, 'n00': 577.3368835449219} under the significance level 0.01 with the accuracy in the 4th decimal place. Take Odds Ratio = n11*n00/(n10*n01) for example, the ECC version of Odds Ratio = (77.33688354492189*577.3368835449219)/(122.66311645507811*222.66311645507812) = 1.634758834767347.
 
 
 
