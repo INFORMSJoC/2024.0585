@@ -38,17 +38,61 @@ Below is the BibTex for citing this snapshot of the repository.
 }  
 ```
 
-## Description
+## Software Overview
 
-The goal of this software is to search for highly correlated pairs by their generated contingency table from their transaction type of raw data.
+The goal of this software is to identify highly correlated variable pairs by analyzing their contingency tables generated from transaction-type raw data.
 
-The code is tested on the Python 3.8 and above. To replicate our result, put all the files and folders under the "src" folder into your project root folder. In addition, put the data folder also under your project root folder. Your root project folder should have "api" and "data" folder, and three python files.
+## Requirements
 
-run "python evaluation_real_data_rdcg.py" will generate the rdcg score for each method under different significance levels for real datasets.
+- Python 3.8 or above
 
-run "python evaluation_simulated_data_rdcg.py" will generate the rdcg score for each method under different significance levels for our simulated data.
+## Setup Instructions
 
-run "python evaluation_simulated_data_speed.py" will test the run time for different search methods in our simulated data.
+To replicate our results:
+
+1. Place all files and folders from the `src` directory into your project’s root folder.
+2. Also place the `data` folder into the root directory.
+
+Your project root should contain:
+- A folder named `api`
+- A folder named `data`
+- Three Python files
+
+
+## Running Evaluations
+
+### Real Data Evaluation
+Computes the **RDCG score** under various significance levels for real datasets:
+```bash
+python evaluation_real_data_rdcg.py
+
+### Simulated Data Evaluation
+Computes the **RDCG score** for each method under varying significance levels using simulated data:
+```bash
+python evaluation_simulated_data_rdcg.py
+
+### Speed Test
+Tests runtime performance of different search methods on simulated data:
+```bash
+python evaluation_simulated_data_speed.py
+
+## Core Function
+
+### `get_corrected_contingency_table_dict`
+
+**Location:**  
+`api.analytics.descriptive.correlation.contingency_table_correction`
+
+**Function Signature:**
+
+```python
+get_corrected_contingency_table_dict(
+    contingency_table_dict,
+    target_p_value,
+    delta=0.0001,
+    whether_speed_up_screen=True
+)
+
 
 The most critical funtion to use is get_corrected_contingency_table_dict(contingency_table_dict, target_p_value, delta=0.0001, whether_speed_up_screen=True) under the folder api.analytics.descriptive.correlation.contingency_table_correction. The contingency_table_dict needs the dict format like {'n11': ##, 'n10': ##, 'n01': ##, 'n11': ##}, target_p_value is the user-specified significance level, delta specifies the accuracy in decimal place and we stop in the 4th decimal place by default, and whether_speed_up_screen control whether impliment Algorithm 4 in the paper when whether_speed_up_screen=True or impliment Algorithm 3 in the paper when whether_speed_up_screen=False.
 
