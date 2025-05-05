@@ -1,0 +1,1 @@
+This dataset is from the paper: Harpaz, R., DuMouchel, W., LePendu, P., Bauer‐Mehren, A., Ryan, P., & Shah, N. H. (2013). Performance of pharmacovigilance signal‐detection algorithms for the FDA adverse event reporting system. Clinical Pharmacology & Therapeutics, 93(6), 539-546.
