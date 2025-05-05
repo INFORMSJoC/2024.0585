@@ -27,7 +27,7 @@ https://doi.org/10.1287/ijoc.2024.0585.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
+@misc{duan2025early,
   author =        {L. Duan and W. Zhou and Y. Hu and L. Xu and M. Liu},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Early Detection of Adverse Drug Reactions in Post-Market Monitoring}},
