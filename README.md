@@ -9,7 +9,7 @@ The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
 [Early Detection of Adverse Drug Reactions in Post-Market Monitoring](https://doi.org/10.1287/ijoc.2024.0585) by L. Duan, W. Zhou, Y. Hu, L. Xu, and M. Liu. 
 The snapshot is based on 
-[this SHA](https://github.com/tkralphs/JoCTemplate/commit/bb742f21fc773ac90aaf5d8442080da5a74310f0) 
+[this SHA](https://github.com/lian-duan-hofstra/2024.0585/commit/bb742f21fc773ac90aaf5d8442080da5a74310f0) 
 in the development repository. 
 
 **Important: This code is being developed on an on-going basis at 
